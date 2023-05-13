@@ -328,6 +328,7 @@ a:active {
 .row {
     display: flex;
 }
+
 ul.row {
     margin: 0;
     padding: 0;
